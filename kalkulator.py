@@ -21,6 +21,9 @@ def divide(x, y):
 def newfinction(x):
    return x / 100
    
+def newfinction2(x):
+   return x / 200
+   
    
 print("Select operation.")
 print("1.Add")
